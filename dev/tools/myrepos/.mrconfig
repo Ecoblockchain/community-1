@@ -1,0 +1,135 @@
+[ipfs/go-datastore]
+checkout = git clone git@github.com:ipfs/go-datastore.git
+
+[ipfs/go-ipfs]
+checkout = git clone git@github.com:ipfs/go-ipfs.git
+
+[ipfs/go-ipfs-api]
+checkout = git clone git@github.com:ipfs/go-ipfs-api.git
+
+[ipfs/go-blocks]
+checkout = git clone git@github.com:ipfs/go-blocks.git
+
+[ipfs/go-iprs]
+checkout = git clone git@github.com:ipfs/go-iprs.git
+
+[ipfs/go-ipld]
+checkout = git clone git@github.com:ipfs/go-ipld.git
+
+[ipfs/go-commands]
+checkout = git clone git@github.com:ipfs/go-commands.git
+
+[ipfs/go-log]
+checkout = git clone git@github.com:ipfs/go-log.git
+
+[ipfs/go-ipfs-util]
+checkout = git clone git@github.com:ipfs/go-ipfs-util.git
+
+[ipfs/go-dnslink]
+checkout = git clone git@github.com:ipfs/go-dnslink.git
+
+[ipfs/go-key]
+checkout = git clone git@github.com:ipfs/go-key.git
+
+[ipfs/go-ipfs-gateway]
+checkout = git clone git@github.com:ipfs/go-ipfs-gateway.git
+
+[ipfs/go-metrics-interface]
+checkout = git clone git@github.com:ipfs/go-metrics-interface.git
+
+[ipfs/go-metrics-prometheus]
+checkout = git clone git@github.com:ipfs/go-metrics-prometheus.git
+
+[ipfs/go-cid]
+checkout = git clone git@github.com:ipfs/go-cid.git
+
+[ipfs/go-ds-flatfs]
+checkout = git clone git@github.com:ipfs/go-ds-flatfs.git
+
+[ipfs/go-ds-measure]
+checkout = git clone git@github.com:ipfs/go-ds-measure.git
+
+[ipfs/go-ds-leveldb]
+checkout = git clone git@github.com:ipfs/go-ds-leveldb.git
+
+[ipfs/go-ds-redis]
+checkout = git clone git@github.com:ipfs/go-ds-redis.git
+
+[ipfs/go-ds-lru]
+checkout = git clone git@github.com:ipfs/go-ds-lru.git
+
+[ipfs/go-todocounter]
+checkout = git clone git@github.com:ipfs/go-todocounter.git
+
+[libp2p/go-libp2p]
+checkout = git clone git@github.com:libp2p/go-libp2p.git
+
+[libp2p/go-libp2p-transport]
+checkout = git clone git@github.com:libp2p/go-libp2p-transport.git
+
+[libp2p/go-libp2p-loggables]
+checkout = git clone git@github.com:libp2p/go-libp2p-loggables.git
+
+[libp2p/go-libp2p-crypto]
+checkout = git clone git@github.com:libp2p/go-libp2p-crypto.git
+
+[libp2p/go-libp2p-secio]
+checkout = git clone git@github.com:libp2p/go-libp2p-secio.git
+
+[libp2p/go-libp2p-peer]
+checkout = git clone git@github.com:libp2p/go-libp2p-peer.git
+
+[libp2p/go-libp2p-peerstore]
+checkout = git clone git@github.com:libp2p/go-libp2p-peerstore.git
+
+[libp2p/go-libp2p-kad-dht]
+checkout = git clone git@github.com:libp2p/go-libp2p-kad-dht.git
+
+[libp2p/go-libp2p-routing]
+checkout = git clone git@github.com:libp2p/go-libp2p-routing.git
+
+[libp2p/go-libp2p-kbucket]
+checkout = git clone git@github.com:libp2p/go-libp2p-kbucket.git
+
+[libp2p/go-libp2p-record]
+checkout = git clone git@github.com:libp2p/go-libp2p-record.git
+
+[libp2p/go-testutil]
+checkout = git clone git@github.com:libp2p/go-testutil.git
+
+[libp2p/go-floodsub]
+checkout = git clone git@github.com:libp2p/go-floodsub.git
+
+[libp2p/go-utp-transport]
+checkout = git clone git@github.com:libp2p/go-utp-transport.git
+
+[libp2p/go-tcp-transport]
+checkout = git clone git@github.com:libp2p/go-tcp-transport.git
+
+[multiformats/go-multihash]
+checkout = git clone git@github.com:multiformats/go-multihash.git
+
+[multiformats/go-multiaddr]
+checkout = git clone git@github.com:multiformats/go-multiaddr.git
+
+[multiformats/go-multiaddr-net]
+checkout = git clone git@github.com:multiformats/go-multiaddr-net.git
+
+[multiformats/go-multistream]
+checkout = git clone git@github.com:multiformats/go-multistream.git
+
+[multiformats/go-multicodec]
+checkout = git clone git@github.com:multiformats/go-multicodec.git
+
+[multiformats/go-multigram]
+checkout = git clone git@github.com:multiformats/go-multigram.git
+
+[multiformats/go-multibase]
+checkout = git clone git@github.com:multiformats/go-multibase.git
+
+[multiformats/go-multicodec-packed]
+checkout = git clone git@github.com:multiformats/go-multicodec-packed.git
+
+[gxed/go-is-domain]
+checkout = git clone git@github.com:gxed/go-is-domain.git
+
